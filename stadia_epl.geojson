@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "stadia_epl",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Name": "Emirates Stadium", "Team": "Arsenal", "Capacity": 60361, "Latitude": 51.554901, "Longitude": -0.108436, "Easting": 531236, "Northing": 185697, "Grid Reference": "TQ312856" }, "geometry": { "type": "Point", "coordinates": [ -0.108436, 51.554901 ] } },
 { "type": "Feature", "properties": { "Name": "Villa Park", "Team": "Aston Villa", "Capacity": 42788, "Latitude": 52.509201, "Longitude": -1.88508, "Easting": 407897, "Northing": 290151, "Grid Reference": "SP078901" }, "geometry": { "type": "Point", "coordinates": [ -1.88508, 52.509201 ] } },
