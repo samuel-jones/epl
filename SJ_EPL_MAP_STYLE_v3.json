@@ -2811,7 +2811,7 @@
       ],
       "layout": {},
       "paint": {
-        "fill-extrusion-color": "#660033",
+        "fill-extrusion-color": "#002868",
         "fill-extrusion-height": 30,
         "fill-extrusion-opacity": 0.7
       }
@@ -2830,7 +2830,7 @@
       ],
       "layout": {},
       "paint": {
-        "fill-extrusion-color": "#660033",
+        "fill-extrusion-color": "#FFFFFF",
         "fill-extrusion-height": 30,
         "fill-extrusion-opacity": 0.7
       }
@@ -2849,7 +2849,7 @@
       ],
       "layout": {},
       "paint": {
-        "fill-extrusion-color": "#660033",
+        "fill-extrusion-color": "#FFFFFF",
         "fill-extrusion-height": 30,
         "fill-extrusion-opacity": 0.7
       }
